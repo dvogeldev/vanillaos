@@ -29,7 +29,7 @@ stages:
       packages:
       - neovim
       - eza
-      - batcat
+      - bat
       - zoxide
       - ripgrep
 
