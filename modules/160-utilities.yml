@@ -1,0 +1,11 @@
+name: utilities
+type: apt
+source:
+  packages:
+    - neovim
+    - eza
+    - ripgrep
+    - bat
+    - fzf
+    - fd-find
+    - zoxide
